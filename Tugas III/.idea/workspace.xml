@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="386cbe76-aac7-4fd2-9ce9-2214d85143c7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Tugas II/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Tugas III.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Difference Image/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Difference Image/.idea/Tugas III.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Difference Image/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Difference Image/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Difference Image/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Difference Image/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Difference Image/Difference.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Difference Image/DifferenceImage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Difference Image/Dilate (Pelebaran Difference).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Difference Image/Hasil Difference Image.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Difference Image/Threshold.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Difference Image/city1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Difference Image/city2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Difference Image/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image Averaging/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image Averaging/.idea/Image Averaging.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image Averaging/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image Averaging/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image Averaging/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image Averaging/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image Averaging/Gambar Ori + Gaussian Noise.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image Averaging/Hasil Noise Image.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image Averaging/ImageAveraging.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image Averaging/Nilai Pixel Noise.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image Averaging/img_ori.jpeg" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2MYOzalKxdz5JVHmNYrb6K4Rh97" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="386cbe76-aac7-4fd2-9ce9-2214d85143c7" name="Changes" comment="" />
+      <created>1677941316561</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1677941316561</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
